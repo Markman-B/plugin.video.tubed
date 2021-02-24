@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "Addon Summary"
 msgid "Watch your favorite YouTube content on Kodi"
-msgstr ""
+msgstr "Bekijk je favoriete YouTube inhoud in Kodi"
 
 msgctxt "Addon Description"
 msgid "Browse your favorite content from YouTube; create, delete, and rename playlists; subscribe or unsubscribe from your favorite channels; and rate your favorite videos."
@@ -26,7 +26,7 @@ msgstr ""
 
 msgctxt "#30000"
 msgid "Most Popular"
-msgstr ""
+msgstr "Meest Populair"
 
 msgctxt "#30001"
 msgid "Next Page"
@@ -46,11 +46,11 @@ msgstr "Mijn kanaal"
 
 msgctxt "#30005"
 msgid "Liked Videos"
-msgstr ""
+msgstr "Leuk gevonden video's"
 
 msgctxt "#30006"
 msgid "Disliked Videos"
-msgstr ""
+msgstr "Niet leuk gevonden video's"
 
 msgctxt "#30007"
 msgid "Playlists"
@@ -62,7 +62,7 @@ msgstr "Kanalen"
 
 msgctxt "#30009"
 msgid "Subscriptions"
-msgstr "Abbonnementen"
+msgstr "Abonnementen"
 
 msgctxt "#30010"
 msgid "Live"
@@ -82,11 +82,11 @@ msgstr "Beheer gebruikers"
 
 msgctxt "#30014"
 msgid "New Search"
-msgstr ""
+msgstr "Nieuwe zoekopdracht"
 
 msgctxt "#30015"
 msgid "Enter your search term"
-msgstr "Geef je zoektermen op"
+msgstr "Voer zoekopdracht in"
 
 msgctxt "#30016"
 msgid "Go to %s and enter the following code:"
@@ -146,15 +146,15 @@ msgstr "Kwaliteit"
 
 msgctxt "#30030"
 msgid "Choose the maximum playback quality for videos and live content"
-msgstr ""
+msgstr "Selecteer de maximale kwaliteit"
 
 msgctxt "#30031"
 msgid "Limit to 30 fps"
-msgstr ""
+msgstr "Limiteer tot 30fps"
 
 msgctxt "#30032"
 msgid "Limit playback quality to 30 fps or less"
-msgstr ""
+msgstr "Limiteer afspeel kwaliteit tot 30fps of minder"
 
 msgctxt "#30033"
 msgid "HDR"
@@ -162,7 +162,7 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Use the best matching HDR streams for videos"
-msgstr ""
+msgstr "Gebruik de best overeenkomende HDR streams voor video's"
 
 msgctxt "#30035"
 msgid "Adaptive (MP4/H264)"
@@ -206,59 +206,59 @@ msgstr ""
 
 msgctxt "#30045"
 msgid "Playback"
-msgstr ""
+msgstr "Afspelen"
 
 msgctxt "#30046"
 msgid "Watch Later"
-msgstr ""
+msgstr "Bekijk Later"
 
 msgctxt "#30047"
 msgid "Regional"
-msgstr ""
+msgstr "Regionaal"
 
 msgctxt "#30048"
 msgid "Language"
-msgstr ""
+msgstr "Taal"
 
 msgctxt "#30049"
 msgid "Your preferred YouTube UI language"
-msgstr ""
+msgstr "Voorkeur YouTube gebruikersomgeving taal"
 
 msgctxt "#30050"
 msgid "Region"
-msgstr ""
+msgstr "Regio"
 
 msgctxt "#30051"
 msgid "Your preferred content region"
-msgstr ""
+msgstr "Voorkeur regionale inhoud"
 
 msgctxt "#30052"
 msgid "Configure regional preferences"
-msgstr ""
+msgstr "Configureer regionale voorkeuren"
 
 msgctxt "#30053"
 msgid "Configure your preferred language and region"
-msgstr ""
+msgstr "Configreer voorkeurstaal en regio"
 
 msgctxt "#30054"
 msgid "Configure subtitles"
-msgstr ""
+msgstr "Configureer ondertiteling"
 
 msgctxt "#30055"
 msgid "Configure your preferred subtitle language"
-msgstr ""
+msgstr "Configureer voorkeur ondertitelingstaal"
 
 msgctxt "#30056"
 msgid "Subtitle language"
-msgstr ""
+msgstr "Taal ondertiteling"
 
 msgctxt "#30057"
 msgid "Your preferred subtitle language"
-msgstr ""
+msgstr "Voorkeur ondertitelingstaal"
 
 msgctxt "#30058"
 msgid "Subtitles"
-msgstr ""
+msgstr "Ondertiteling"
 
 msgctxt "#30059"
 msgid "%s with %s fallback"
@@ -266,159 +266,159 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "No auto-generated"
-msgstr ""
+msgstr "Niet automatsich aangemaakt"
 
 msgctxt "#30061"
 msgid "None"
-msgstr ""
+msgstr "Geen"
 
 msgctxt "#30062"
 msgid "Prompt"
-msgstr ""
+msgstr "Melding"
 
 msgctxt "#30063"
 msgid "Subscribe"
-msgstr ""
+msgstr "Abonneer"
 
 msgctxt "#30064"
 msgid "Subscribed"
-msgstr ""
+msgstr "Geabonneerd"
 
 msgctxt "#30065"
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Afmelden"
 
 msgctxt "#30066"
 msgid "Unsubscribed"
-msgstr ""
+msgstr "Afgemeld"
 
 msgctxt "#30067"
 msgid "Error"
-msgstr ""
+msgstr "Fout"
 
 msgctxt "#30068"
 msgid "Play (Prompt for subtitles)"
-msgstr ""
+msgstr "Afspelen (Toon melding voor ondertiteling)"
 
 msgctxt "#30069"
 msgid "Go to %s"
-msgstr ""
+msgstr "Ga naar %s"
 
 msgctxt "#30070"
 msgid "Subscribed to %s"
-msgstr ""
+msgstr "Geabonneerd op %s"
 
 msgctxt "#30071"
 msgid "Unsubscribed from %s"
-msgstr ""
+msgstr "Afgemeld voor %s"
 
 msgctxt "#30072"
 msgid "Rate"
-msgstr ""
+msgstr "Waardeer"
 
 msgctxt "#30073"
 msgid "I like this"
-msgstr ""
+msgstr "Leuk"
 
 msgctxt "#30074"
 msgid "I dislike this"
-msgstr ""
+msgstr "Niet leuk"
 
 msgctxt "#30075"
 msgid "Remove rating"
-msgstr ""
+msgstr "Verwijder waardering"
 
 msgctxt "#30076"
 msgid "Liked"
-msgstr ""
+msgstr "Leuk gevonden"
 
 msgctxt "#30077"
 msgid "Disliked"
-msgstr ""
+msgstr "Niet leuk gevonden"
 
 msgctxt "#30078"
 msgid "Liked %s"
-msgstr ""
+msgstr "%s leuk gevonden"
 
 msgctxt "#30079"
 msgid "Disliked %s"
-msgstr ""
+msgstr "%s niet leuk gevonden"
 
 msgctxt "#30080"
 msgid "Rating removed"
-msgstr ""
+msgstr "Waardering verwijderd"
 
 msgctxt "#30081"
 msgid "Rating removed from %s"
-msgstr ""
+msgstr "Waardering verwijderd voor %s"
 
 msgctxt "#30082"
 msgid "New playlist"
-msgstr ""
+msgstr "Nieuwe afspeellijst"
 
 msgctxt "#30083"
 msgid "Add to playlist"
-msgstr ""
+msgstr "Voeg toe aan afspeellijst"
 
 msgctxt "#30084"
 msgid "Remove from playlist"
-msgstr ""
+msgstr "Verwijder van afspeellijst"
 
 msgctxt "#30085"
 msgid "Delete playlist"
-msgstr ""
+msgstr "Verwijder afspeellijst"
 
 msgctxt "#30086"
 msgid "Enter your playlist title"
-msgstr ""
+msgstr "Voer afspeellijst titel in"
 
 msgctxt "#30087"
 msgid "Added %s to %s"
-msgstr ""
+msgstr "%s toegevoegd aan %s"
 
 msgctxt "#30088"
 msgid "Removed from playlist"
-msgstr ""
+msgstr "Verwijderd van afspeellijst"
 
 msgctxt "#30089"
 msgid "Removed %s from playlist"
-msgstr ""
+msgstr "%s verwijderd van afspeellijst"
 
 msgctxt "#30090"
 msgid "Playlist deleted"
-msgstr ""
+msgstr "Afspeellijst verwijderd"
 
 msgctxt "#30091"
 msgid "%s playlist deleted"
-msgstr ""
+msgstr "%s afspeellijst verwijderd"
 
 msgctxt "#30092"
 msgid "Rename playlist"
-msgstr ""
+msgstr "Afspeellijst hernoemen"
 
 msgctxt "#30093"
 msgid "Playlist renamed to %s"
-msgstr ""
+msgstr "Afspeellijst hernoemd naar %s "
 
 msgctxt "#30094"
 msgid "%s renamed to %s"
-msgstr ""
+msgstr "%s hernoemd naar %s"
 
 msgctxt "#30095"
 msgid "You are about to delete %s, are you sure?"
-msgstr ""
+msgstr "Weet je zeker dat je %s wilt verwijderen?"
 
 msgctxt "#30096"
 msgid "You are about to delete a playlist, are you sure?"
-msgstr ""
+msgstr "Weet je zeker dat je een afspeellijst wilt verwijderen?"
 
 msgctxt "#30097"
 msgid "Upcoming"
-msgstr ""
+msgstr "Aankomend"
 
 msgctxt "#30098"
 msgid "Completed"
-msgstr ""
+msgstr "Afgerond"
 
 msgctxt "#30099"
 msgid "%s was scheduled to start %s"
@@ -430,7 +430,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Related videos"
-msgstr ""
+msgstr "Gerelateerde video's"
 
 msgctxt "#30102"
 msgid "Cache"
@@ -446,35 +446,35 @@ msgstr ""
 
 msgctxt "#30105"
 msgid "Clear data cache"
-msgstr ""
+msgstr "Wissen data cache"
 
 msgctxt "#30106"
 msgid "Clear function cache"
-msgstr ""
+msgstr "Wissen function cache"
 
 msgctxt "#30107"
 msgid "Data cache was cleared"
-msgstr ""
+msgstr "Datacache gewist"
 
 msgctxt "#30108"
 msgid "Function cache was cleared"
-msgstr ""
+msgstr "Functiecache gewist"
 
 msgctxt "#30109"
 msgid "Delete data cache"
-msgstr ""
+msgstr "Verwijder datacache"
 
 msgctxt "#30110"
 msgid "Delete function cache"
-msgstr ""
+msgstr "Verwijder functiecache"
 
 msgctxt "#30111"
 msgid "Data cache was deleted"
-msgstr ""
+msgstr "Datacache verwijderd"
 
 msgctxt "#30112"
 msgid "Function cache was deleted"
-msgstr ""
+msgstr "Functiecache verwijderd"
 
 msgctxt "#30113"
 msgid "Time to Live"
@@ -482,7 +482,7 @@ msgstr ""
 
 msgctxt "#30114"
 msgid "Maintenance"
-msgstr ""
+msgstr "Onderhoud"
 
 msgctxt "#30115"
 msgid "How long until long term data cache expires in weeks"
@@ -510,19 +510,19 @@ msgstr ""
 
 msgctxt "#30121"
 msgid "Failed to clear function cache"
-msgstr ""
+msgstr "Functiecache wissen mislukt"
 
 msgctxt "#30122"
 msgid "Failed to clear data cache"
-msgstr ""
+msgstr "Datacache wissen mislukt"
 
 msgctxt "#30123"
 msgid "Failed to delete function cache"
-msgstr ""
+msgstr "Functiecache verwijderen mislukt"
 
 msgctxt "#30124"
 msgid "Failed to delete data cache"
-msgstr ""
+msgstr "Datacache verwijderen mislukt"
 
 msgctxt "#30125"
 msgid "Debug"
@@ -542,15 +542,15 @@ msgstr ""
 
 msgctxt "#30129"
 msgid "Comments"
-msgstr ""
+msgstr "Reacties"
 
 msgctxt "#30130"
 msgid "Comment"
-msgstr ""
+msgstr "Reageer"
 
 msgctxt "#30131"
 msgid "Read comment"
-msgstr ""
+msgstr "Lees reactie"
 
 msgctxt "#30132"
 msgid "Likes"
@@ -558,11 +558,11 @@ msgstr ""
 
 msgctxt "#30133"
 msgid "Replies"
-msgstr ""
+msgstr "Antwoorden"
 
 msgctxt "#30134"
 msgid "Comment has been edited"
-msgstr ""
+msgstr "Reactie is aangepast"
 
 msgctxt "#30135"
 msgid "Limits"
@@ -570,7 +570,7 @@ msgstr ""
 
 msgctxt "#30136"
 msgid "Data cache (MB)"
-msgstr ""
+msgstr "Datacche (MB)"
 
 msgctxt "#30137"
 msgid "The maximum size of long term data cache before being automatically resized"
@@ -578,47 +578,47 @@ msgstr ""
 
 msgctxt "#30138"
 msgid "Sort order"
-msgstr ""
+msgstr "Sorteervolgorde"
 
 msgctxt "#30139"
 msgid "Choose a sort order"
-msgstr ""
+msgstr "Kies een sorteervolgorde"
 
 msgctxt "#30140"
 msgid "Alphabetical"
-msgstr ""
+msgstr "Alfabetisch"
 
 msgctxt "#30141"
 msgid "Relevance"
-msgstr ""
+msgstr "Relevantie"
 
 msgctxt "#30142"
 msgid "Activity"
-msgstr ""
+msgstr "Activiteit"
 
 msgctxt "#30143"
 msgid "Time"
-msgstr ""
+msgstr "Tijd"
 
 msgctxt "#30144"
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 msgctxt "#30145"
 msgid "Rating"
-msgstr ""
+msgstr "Waardering"
 
 msgctxt "#30146"
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
 msgctxt "#30147"
 msgid "Video Count"
-msgstr ""
+msgstr "Video Teller"
 
 msgctxt "#30148"
 msgid "View Count"
-msgstr ""
+msgstr "Bekeken teller"
 
 msgctxt "#30149"
 msgid "Post Play"
@@ -762,7 +762,7 @@ msgstr ""
 
 msgctxt "#30184"
 msgid "Refresh"
-msgstr ""
+msgstr "Verversen"
 
 msgctxt "#30185"
 msgid "Clear function cache on refresh"
@@ -790,7 +790,7 @@ msgstr ""
 
 msgctxt "#30191"
 msgid "Favorite channels"
-msgstr ""
+msgstr "Favoriete kanalen"
 
 msgctxt "#30192"
 msgid "How many favorite channels should be kept for each user"
@@ -798,11 +798,11 @@ msgstr ""
 
 msgctxt "#30193"
 msgid "Play"
-msgstr ""
+msgstr "Afspelen"
 
 msgctxt "#30194"
 msgid "Play from %s"
-msgstr ""
+msgstr "Afspelen vanaf %s"
 
 msgctxt "#30195"
 msgid "Most Popular Regionally"
@@ -810,7 +810,7 @@ msgstr ""
 
 msgctxt "#30196"
 msgid "Main Menu"
-msgstr ""
+msgstr "Hoofdmenu"
 
 msgctxt "#30197"
 msgid "Show/Hide this item on the main menu"
@@ -870,19 +870,19 @@ msgstr ""
 
 msgctxt "#30211"
 msgid "Create a new playlist"
-msgstr ""
+msgstr "Nieuwe afspeellijst aanmaken"
 
 msgctxt "#30212"
 msgid "Go to the next page"
-msgstr ""
+msgstr "Ga naar volgende pagina"
 
 msgctxt "#30213"
 msgid "Rate the selected video"
-msgstr ""
+msgstr "Waardeer geselecteerde video"
 
 msgctxt "#30214"
 msgid "Rate %s"
-msgstr ""
+msgstr "Waardeer %s"
 
 msgctxt "#30215"
 msgid "Dialogs"
@@ -910,7 +910,7 @@ msgstr ""
 
 msgctxt "#30221"
 msgid "Chapters"
-msgstr ""
+msgstr "Hoofdstukken"
 
 msgctxt "#30222"
 msgid "Chapter starts at %s"
@@ -922,7 +922,7 @@ msgstr ""
 
 msgctxt "#30224"
 msgid "Configure API module"
-msgstr ""
+msgstr "Configureer API module"
 
 msgctxt "#30225"
 msgid "Open Tubed API settings to configure the API module"
@@ -970,7 +970,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Favorite playlists"
-msgstr ""
+msgstr "Favoriete afspeellijsten"
 
 msgctxt "#30237"
 msgid "How many favorite playlists should be kept for each user"
@@ -982,7 +982,7 @@ msgstr ""
 
 msgctxt "#30239"
 msgid "Make a backup"
-msgstr ""
+msgstr "Backup maken"
 
 msgctxt "#30240"
 msgid "Backup your Tubed settings, users, search history, favorite channels and favorite playlists"
@@ -990,7 +990,7 @@ msgstr ""
 
 msgctxt "#30241"
 msgid "Restore a backup"
-msgstr ""
+msgstr "Backup herstellen"
 
 msgctxt "#30242"
 msgid "Restore your Tubed settings, users, search history, favorite channels and favorite playlists from a previous backup"
@@ -1026,23 +1026,23 @@ msgstr ""
 
 msgctxt "#30250"
 msgid "Further use of Tubed will be subject to this privacy policy"
-msgstr ""
+msgstr "Verder gebruik van Tubed is onderworpen aan dit privacybeleid "
 
 msgctxt "#30251"
 msgid "Accept"
-msgstr ""
+msgstr "Accepteren"
 
 msgctxt "#30252"
 msgid "Decline"
-msgstr ""
+msgstr "Afwijzen"
 
 msgctxt "#30253"
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privacy Beleid"
 
 msgctxt "#30254"
 msgid "Sign In"
-msgstr ""
+msgstr "Inloggen"
 
 msgctxt "#30255"
 msgid "InputStream Adaptive is required and appears to be disabled. Would you like to enable InputStream Adaptive now?"
@@ -1050,8 +1050,8 @@ msgstr ""
 
 msgctxt "#30256"
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 msgctxt "#30257"
 msgid "No entries found"
-msgstr ""
+msgstr "Geen gegevens gevonden"
